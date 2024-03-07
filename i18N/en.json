@@ -1,4 +1,16 @@
 {
-    "text1": "Sender's card",
-    "text2": "Check if the card number is entered correctly"
+    "text1": "Sender's Card",
+    "text2": "Check if the card number is entered correctly",
+    "text3": "Date",
+    "text4": "CVV",
+    "text5": "Your phone number",
+    "text6": "to clarify the transfer status",
+    "text7": "incorrect operator code",
+    "text8": "Payer's Full Name",
+    "text9": "Full name must be entered entirely and exclusively in Ukrainian",
+    "text10": "The full name does not meet the requirements",
+    "text11": "I am making a payment and accept the terms",
+    "text12": "Public Contract",
+    "text13": "Continue",
+    "text14": "The funds transfer service is provided by TOV 'SWIFT GUARANT' (EDRPOU 39859339)"
 }
