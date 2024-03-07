@@ -1,4 +1,8 @@
-{
-    "text1": "Sender's card",
-    "text2": "Check if the card number is entered correctly"
-}
+[
+    {
+        "text1": "Sender's card",
+    },
+    {
+        "text2": "Check if the card number is entered correctly"
+    }
+]
